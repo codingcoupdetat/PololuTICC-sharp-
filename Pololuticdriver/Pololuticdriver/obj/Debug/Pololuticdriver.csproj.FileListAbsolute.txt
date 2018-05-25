@@ -1,0 +1,8 @@
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\bin\Debug\Pololuticdriver.dll
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\bin\Debug\Pololuticdriver.pdb
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\bin\Debug\protobuf-net.dll
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\bin\Debug\RPi.I2C.Net.dll
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\bin\Debug\protobuf-net.xml
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\bin\Debug\RPi.I2C.Net.pdb
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\obj\Debug\Pololuticdriver.dll
+C:\Users\jesse\Documents\GitHub\PololuTICC-sharp-\Pololuticdriver\Pololuticdriver\obj\Debug\Pololuticdriver.pdb
